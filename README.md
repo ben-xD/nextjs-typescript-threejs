@@ -1,3 +1,7 @@
+## NextJS + TS + Three.js
+
+Usage: run npx degit https://github.com/ben-xD/nextjs-typescript-threejs.git#main project-name to create a new folder containing this repo. This uses degit, which is nicer than cloning a git repo.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
